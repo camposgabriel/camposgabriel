@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hy There
+> I'm Gabriel Campos
+
+- Desenvolvimento Web
+- Python
+- Representante Luci Luci 
+- Gestor de Trafego & SEO
+
+
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **camposgabriel/camposgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
