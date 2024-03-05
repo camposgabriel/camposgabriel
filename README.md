@@ -1,8 +1,7 @@
 ## Hy There
 > I'm Gabriel Campos
 
-- Estudando Desenvolvimento Web
-- e Flutter
-- Representante Luci Luci
-
-Ola, me chamo Gabriel, gosto muito de tecnologia, fiz este hub para armazenar meus estudos, atualmente aprendendo Flutter.
+- Iniciei meus estudos no dia 05/03/2024
+- Gostaria de ter comecado antes, mas estou aqui para realizar meu sonho de vida
+- Ser um desenvolvedor
+- Foco na missao e Fe no Pai
